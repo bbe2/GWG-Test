@@ -1,6 +1,7 @@
 # Grow-with-Google
 Evidence for Team Writer position interview 3/14
 
--- building evidence of ability to understand current instruction paradigm word complexity layering and semantic structure  
--- joined coursera course Google Data Analytics - very impressed from google to R analytic tools  
--- people - Kevin Hartman on visual display provided a convincing message  
+-- evidence of ability to understand current instruction paradigm by word complexity by semantic structure  
+-- joined coursera Google Data Analytics to assess end product: focus narrative + hands on focus
+
+-- see section C for my analysis of teaching ontology + themes
